@@ -6,7 +6,8 @@ public class Empleado {
 	private String nombre;
 	
 	public static void main(String[] args) {
-		
+	
+		System.out.println("GitHub: Repository");
 	}
 
 }
